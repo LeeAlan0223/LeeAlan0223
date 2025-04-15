@@ -44,5 +44,9 @@
 
 ---
 
-📬 如有任何建議或指教，歡迎在各作品的 GitHub Repo 中開 issue 和我交流！  
+## 📱 聯絡我 / 社群連結
+- 📧 Email：alan20060223@gmail.com  
+- 📸 Instagram：[lee_alan_zm](https://www.instagram.com/lee_alan_zm/)
+
+📬 如有任何建議或指教，歡迎在各作品的 GitHub Repo 中開 issue 或私訊與我交流！  
 謝謝你閱讀我的學習歷程 🙏
