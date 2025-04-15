@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/LeeAlan0223/LeeAlan0223/blob/main/AlanLee.png" width="100%" alt="Alan Lee Banner"> 
+</p>
+
 # 🧠 Alan Lee 的 C 語言學習作品集
 
 你好！這裡是我在學習 C 語言過程中親手完成的作品集，包含邏輯練習、模組化設計、指標操作與實用小工具開發。  
