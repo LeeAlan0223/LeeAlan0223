@@ -22,7 +22,7 @@
 
 ## 📌 作品二：DualCounter 雙遞迴計數器
 📁 GitHub Repo：[DualCounter](https://github.com/LeeAlan0223/DualCounter)  
-1📝 功能簡介：
+📝 功能簡介：
 - 使用兩個遞迴函式 `counter1()` 和 `counter2()` 交替執行
 - 使用靜態變數紀錄各自計數狀態
 - 可自訂執行次數、起始值與增量
@@ -41,7 +41,7 @@
 ---
 
 ## 📌 作品四：GuessNumber 猜數字遊戲系統  
-📁  GitHub Repo： [GuessNumber](https://github.com/LeeAlan0223/guess-number-c-game)
+📁  GitHub Repo： [GuessNumber](https://github.com/LeeAlan0223/guess-number-c-game)  
 📝 功能簡介：
 - 使用亂數產生 1~100 的目標數字
 - 提供猜大、猜小與「很接近」提示
