@@ -22,7 +22,7 @@
 
 ## 📌 作品二：DualCounter 雙遞迴計數器
 📁 GitHub Repo：[DualCounter](https://github.com/LeeAlan0223/DualCounter)  
-📝 功能簡介：
+1📝 功能簡介：
 - 使用兩個遞迴函式 `counter1()` 和 `counter2()` 交替執行
 - 使用靜態變數紀錄各自計數狀態
 - 可自訂執行次數、起始值與增量
