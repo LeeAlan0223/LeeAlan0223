@@ -40,7 +40,7 @@
 
 ---
 
-##📌 作品四：GuessNumber 猜數字遊戲系統  
+## 📌 作品四：GuessNumber 猜數字遊戲系統  
 📁  GitHub Repo： [GuessNumber](https://github.com/LeeAlan0223/guess-number-c-game)
 
 📝 功能簡介：
