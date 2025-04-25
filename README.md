@@ -40,10 +40,10 @@
 
 ---
 
-📌 作品四：GuessNumber 猜數字遊戲系統  
-🔗 GitHub Repo： [GuessNumber](https://github.com/LeeAlan0223/guess-number-c-game)
+##📌 作品四：GuessNumber 猜數字遊戲系統  
+📁  GitHub Repo： [GuessNumber](https://github.com/LeeAlan0223/guess-number-c-game)
 
-🔧 功能簡介：
+📝 功能簡介：
 - 使用亂數產生 1~100 的目標數字
 - 提供猜大、猜小與「很接近」提示
 - 防呆輸入機制：非整數輸入不當機
