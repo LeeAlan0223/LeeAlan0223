@@ -40,6 +40,20 @@
 
 ---
 
+📌 作品四：GuessNumber 猜數字遊戲系統  
+🔗 GitHub Repo： [GuessNumber](https://github.com/LeeAlan0223/guess-number-c-game)
+
+🔧 功能簡介：
+- 使用亂數產生 1~100 的目標數字
+- 提供猜大、猜小與「很接近」提示
+- 防呆輸入機制：非整數輸入不當機
+- 計數功能顯示猜了幾次
+- 使用 `enum` 管理錯誤與選單狀態
+- 模組化結構（.c / .h 檔案分離）
+- 跨平台畫面清除 `clear()`、畫面暫停 `pause()` 支援
+
+---
+
 ## 🧾 作者資訊
 - 姓名：李承恩 / Alan Lee  
 - 學號：1113415026  
